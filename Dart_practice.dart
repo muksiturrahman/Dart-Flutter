@@ -16,7 +16,8 @@ print("Hello there $firstName ${lastName.toUpperCase()}");
 
 int number = 34;
 int numberTwo = 21;
-
+int number = 34;
+int numberTwo = 21;
 //double pi = 3.1416;
 //double gravity = 9.8;
 
